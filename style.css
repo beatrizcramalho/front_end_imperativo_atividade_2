@@ -1,0 +1,31 @@
+body {
+    color: darkslategray;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    background-color: lightsteelblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, a {
+    color: darkblue;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
